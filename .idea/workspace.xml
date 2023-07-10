@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="162c0d45-3f19-4141-9b93-3e93d7e52671" name="Changes" comment="">
+    <list default="true" id="162c0d45-3f19-4141-9b93-3e93d7e52671" name="Changes" comment="pruebas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/SistemaBlogSpringBootApiRestApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/SistemaBlogSpringBootApiRestApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/configuracion/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/configuracion/SecurityConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/controller/AuthController.class" afterDir="false" />
@@ -131,11 +132,35 @@
       <workItem from="1688056683699" duration="40614000" />
       <workItem from="1688573984774" duration="25439000" />
       <workItem from="1688764548066" duration="2123000" />
-      <workItem from="1689001052094" duration="1921000" />
+      <workItem from="1689001052094" duration="2254000" />
     </task>
+    <task id="LOCAL-00001" summary="pruebas">
+      <option name="closed" value="true" />
+      <created>1689021099753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689021099753</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pruebas" />
+    <option name="LAST_COMMIT_MESSAGE" value="pruebas" />
   </component>
 </project>
