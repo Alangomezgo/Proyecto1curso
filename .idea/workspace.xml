@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="162c0d45-3f19-4141-9b93-3e93d7e52671" name="Changes" comment="pruebas">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/SistemaBlogSpringBootApiRestApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/SistemaBlogSpringBootApiRestApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/configuracion/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/configuracion/SecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/controller/AuthController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/controller/ComentarioControlador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/controller/ComentarioControlador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/controller/PublicacionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/controller/PublicacionController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/dto/ComentarioDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/dto/ComentarioDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/dto/ErrorDetalles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/dto/ErrorDetalles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/dto/LoginDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/dto/LoginDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/dto/PublicacionDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/dto/PublicacionDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/dto/PublicacionRespuesta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/dto/PublicacionRespuesta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/dto/RegistroDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/dto/RegistroDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/entitys/Comentario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/entitys/Comentario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/entitys/Publicacion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/entitys/Publicacion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/entitys/Rol.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/entitys/Rol.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/entitys/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/entitys/Usuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/exceptions/BlogAppException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/exceptions/BlogAppException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/exceptions/GlobalExceptionsHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/exceptions/GlobalExceptionsHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/exceptions/ResourceNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/exceptions/ResourceNotFoundException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/repository/ComentarioRepositorio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/repository/ComentarioRepositorio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/repository/PublicacionRepositorio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/repository/PublicacionRepositorio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/repository/RolRepositorio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/repository/RolRepositorio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/repository/UsuarioRepositorio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/repository/UsuarioRepositorio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/seguridad/CustomUserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/seguridad/CustomUserDetailsService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/seguridad/JWTAuthResponseDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/seguridad/JWTAuthResponseDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/seguridad/JwtAuthenticationEntryPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/seguridad/JwtAuthenticationEntryPoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/seguridad/JwtAuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/seguridad/JwtAuthenticationFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/seguridad/JwtTokenProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/seguridad/JwtTokenProvider.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/service/ComentarioServicio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/service/ComentarioServicio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/service/ComentarioServicioImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/service/ComentarioServicioImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/service/PublicacionServicio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/service/PublicacionServicio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/service/PublicacionServicioImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/service/PublicacionServicioImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/utilities/AppConstantes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/utilities/AppConstantes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sistema/blog/utilities/PasswordEncoderGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sistema/blog/utilities/PasswordEncoderGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sistema/blog/SistemaBlogSpringBootApiRestApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/sistema/blog/SistemaBlogSpringBootApiRestApplicationTests.class" afterDir="false" />
-    </list>
+    <list default="true" id="162c0d45-3f19-4141-9b93-3e93d7e52671" name="Changes" comment="pruebas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,26 +37,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/agomez/Documentos/mio/PRACTICA/sistema-blog-spring-boot-api-rest",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "e085331c0725cfa12db28cec8ca19a85",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/agomez/Documentos/mio/PRACTICA/sistema-blog-spring-boot-api-rest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;e085331c0725cfa12db28cec8ca19a85&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Spring Boot.SistemaBlogSpringBootApiRestApplication">
     <configuration name="PasswordEncoderGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sistema.blog.utilities.PasswordEncoderGenerator" />
